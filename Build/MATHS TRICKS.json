@@ -1,0 +1,14 @@
+{
+"companyName": "ENJOY_MATHS",
+"productName": "KETI KRAMA",
+"dataUrl": "MATHS TRICKS.data.unityweb",
+"wasmCodeUrl": "MATHS TRICKS.wasm.code.unityweb",
+"wasmFrameworkUrl": "MATHS TRICKS.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "MATHS TRICKS.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
